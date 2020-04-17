@@ -1,0 +1,20 @@
+name: malt_flutter_clone
+description: A Flutter clone app of "Malt Freelance"
+repository: https://github.com/asijoumi/malt_flutter_clone
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
